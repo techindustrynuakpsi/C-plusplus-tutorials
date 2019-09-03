@@ -31,7 +31,7 @@ Let's say you have an array of numbers: [1, 5, 3, 24, 13, 34, 30], write a sorti
 Say you have a project you are working on, and you need to be able to use the function with different inputs. These inputs may not have the same data type. Make a function that swaps the two inputs to the function.
 
 <details><summary>Hint</summary>
-  * https://www.interviewcake.com/cpp-interview-questions
+  * Think about using a template
 </details>
 
 
