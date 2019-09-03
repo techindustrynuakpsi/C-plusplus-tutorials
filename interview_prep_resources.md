@@ -18,6 +18,7 @@
 ### Programming
 * https://javarevisited.blogspot.com/2018/07/10-tips-on-working-fast-in-unix-or-linux.html
 * Make a Hacker rank account and do coding challenges or interview Preparation kit: https://www.hackerrank.com/
+* https://www.interviewcake.com/cpp-interview-questions
 
 ### Topics to Review
 * Language specific topics 
