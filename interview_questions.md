@@ -15,4 +15,10 @@ If you used recursion for question 1, redo question 1 with a for/while loop. If 
  * https://beginnersbook.com/2017/08/cpp-recursion/
 </details>
 
+<details><summary>For/while loop Hint</summary>
+ * https://beginnersbook.com/2017/08/cpp-for-loop/
+</details>
+
+
 ## 3. 
+
