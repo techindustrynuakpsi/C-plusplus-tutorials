@@ -13,6 +13,7 @@
 * https://beginnersbook.com/2017/08/cpp-recursion/
 * Make a Leet code account: https://leetcode.com/accounts/signup/
 * https://www.freecodecamp.org/news/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9/
+* https://beginnersbook.com/category/learn-c/
 
 ### Programming
 * https://javarevisited.blogspot.com/2018/07/10-tips-on-working-fast-in-unix-or-linux.html
