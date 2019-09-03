@@ -21,4 +21,18 @@ If you used recursion for question 1, redo question 1 with a for/while loop. If 
 
 
 ## 3. 
+Let's say you have an array of numbers: [1, 5, 3, 24, 13, 34, 30], write a sorting algorithm to reorder the list?
+
+<details><summary>Hint</summary>
+* https://www.geeksforgeeks.org/sorting-algorithms/
+</details>
+
+## 4.
+Say you have a project you are working on, and you need to be able to use the function with different inputs. These inputs may not have the same data type. Make a function that swaps the two inputs to the function.
+
+<details><summary>Hint</summary>
+  * https://www.interviewcake.com/cpp-interview-questions
+</details>
+
+
 
